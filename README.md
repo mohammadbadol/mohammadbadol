@@ -1,9 +1,9 @@
-# 🤖 BJS Coding Telegram Bot ⚙️💻
+# 🤖 BJS Coding Telegram Bot ⚙️💻 Developed by MOHAMMAD~BADOL⏰💬
 
 <p align="center">
   <strong>Bot Username:</strong> <a href="https://t.me/B4D9LBOT">@B4D9LBOT</a>  
   <br />
-  <strong>Development Spot:</strong> BJS Coding Telegram Bot Development Spot Developed by MOHAMMAD~BADOL  
+  <strong>Development Spot:</strong> BJS Coding Telegram Bot Development Spot  
   <br />
   <strong>Owner & Admin:</strong> MOHAMMAD~BADOL
 </p>
