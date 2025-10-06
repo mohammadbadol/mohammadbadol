@@ -3,13 +3,13 @@
 <p align="center">
   <strong>Bot Username:</strong> <a href="https://t.me/B4D9LBOT">@B4D9LBOT</a>  
   <br />
-  <strong>Development Spot:</strong> BJS Coding Telegram Bot Development Spot  
+  <strong>Development Spot:</strong> BJS Coding Telegram Bot Development Spot Developed by MOHAMMAD~BADOL  
   <br />
   <strong>Owner & Admin:</strong> MOHAMMAD~BADOL
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/EPgCOnR.jpeg" alt="Bot Logo" width="120" />
+  <img src="https://i.imgur.com/87eq6SG.jpeg" alt="Bot Logo" width="800" />
 </p>
 
 ---
@@ -32,27 +32,8 @@
 
 ## 🎥 ফিচার GIF
 
-<p align="center" style="position: relative; display: inline-block;">
-
+<p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXRxbDZ6ODAxZHQ4ZDN2djh6MmRxNzE4Zjh2anA1Zmt2dWluZDNraCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJtK/giphy.gif" width="600" alt="Bot Feature Demo" />
-
-  <div style="
-    position: absolute;
-    top: 10px;
-    left: 50%;
-    transform: translateX(-50%);
-    color: white;
-    font-weight: bold;
-    font-size: 22px;
-    text-shadow: 2px 2px 6px rgba(0,0,0,0.8);
-    pointer-events: none;
-    user-select: none;
-    line-height: 1.2;
-  ">
-    🤖 I am the BJS Coding Bot Development Spot ⚙️💻<br />
-    Developed by MOHAMMAD~BADOL
-  </div>
-
 </p>
 
 ---
@@ -141,7 +122,9 @@
 ---
 
 <p align="center">
-  Developed with ❤️ by MOHAMMAD~BADOL  
+  Developed with ❤️ by MOHAMMAD~BADOL  
   <br />
-  Powered by BJS Coding Telegram Bot Development Spot • © 2025
+  Powered by BJS Coding Telegram Bot Development Spot • © 2025  
+  <br />
+  🌐 <a href="https://bio.link/mohammadbadol009" target="_blank">Official Website / Bio Link</a>
 </p>
