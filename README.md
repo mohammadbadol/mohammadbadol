@@ -1,13 +1,15 @@
-<h1 align="center">🤖 BJS Coding Telegram Bot ⚙️💻</h1>
+# 🤖 BJS Coding Telegram Bot ⚙️💻
 
 <p align="center">
-  <strong>Bot Username:</strong> <a href="https://t.me/B4D9LBOT">@B4D9LBOT</a> <br>
-  <strong>Development Spot:</strong> BJS Coding Telegram Bot Development Spot <br>
-  <strong>Owner & Admin:</strong> MOHAMMAD~BADOL
+  <strong>Bot Username:</strong> <a href="https://t.me/B4D9LBOT">@B4D9LBOT</a>  
+  <br />
+  <strong>Development Spot:</strong> BJS Coding Telegram Bot Development Spot  
+  <br />
+  <strong>Owner & Admin:</strong> MOHAMMAD~BADOL
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/EPgCOnR.jpeg" alt="Bot Logo" width="120" />
+  <img src="https://i.imgur.com/87eq6SG.jpeg" alt="Bot Logo" width="800" />
 </p>
 
 ---
@@ -20,31 +22,29 @@
 
 ## ⚙️ ফিচারসমূহ
 
-- ✅ Auto-reply system & Custom Commands  
-- ✅ ইউজার র‍্যাংকিং এবং চ্যাট ট্র্যাকিং  
-- ✅ অ্যাডমিন কন্ট্রোল প্যানেল সাপোর্ট  
-- ✅ গ্রুপ সিকিউরিটি ও ম্যানেজমেন্ট টুলস  
-- ✅ 24/7 Uptime and Monitoring  
+- ✅ Auto-reply system & Custom Commands  
+- ✅ ইউজার র‍্যাংকিং এবং চ্যাট ট্র্যাকিং  
+- ✅ অ্যাডমিন কন্ট্রোল প্যানেল সাপোর্ট  
+- ✅ গ্রুপ সিকিউরিটি ও ম্যানেজমেন্ট টুলস  
+- ✅ 24/7 Uptime and Monitoring  
 
 ---
 
 ## 🎥 ফিচার GIF
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXRxbDZ6ODAxZHQ4ZDN2djh6MmRxNzE4Zjh2anA1Zmt2dWluZDNraCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJtK/giphy.gif" width="600" alt="Bot Feature Demo" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXRxbDZ6ODAxZHQ4ZDN2djh6MmRxNzE4Zjh2anA1Zmt2dWluZDNraCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJtK/giphy.gif" width="600" alt="Bot Feature Demo" />
 </p>
-
-> 🔄 আপনি চাইলে এখানে নিজের রেকর্ড করা `.gif` ফাইল GitHub বা Imgur এ আপলোড করে লিংক ব্যবহার করতে পারেন।
 
 ---
 
-## 📱 স্ক্যান করুন QR কোড দিয়ে
+## 📱 QR কোড দিয়ে এক ক্লিকে খুলুন
 
 <p align="center">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https://t.me/B4D9LBOT" alt="QR Code to Bot" />
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https://t.me/B4D9LBOT" alt="Scan to open @B4D9LBOT on Telegram" />
 </p>
 
-> 📲 মোবাইল দিয়ে এই QR কোড স্ক্যান করলে সরাসরি [@B4D9LBOT](https://t.me/B4D9LBOT) বটে নিয়ে যাবে।
+> 📲 মোবাইলে QR কোড স্ক্যান করলেই সরাসরি [@B4D9LBOT](https://t.me/B4D9LBOT) খুলে যাবে।
 
 ---
 
@@ -71,16 +71,21 @@
 
 📌 ফিচার পরিবর্তন, নিজের নাম বা ব্র্যান্ড বসানো, অথবা এক্সট্রা অপশন যোগ করতে চাইলে যোগাযোগ করুন।
 
-👉 **যোগাযোগ:** [@badol360](https://t.me/badol360)
+👉 **যোগাযোগ:** [@B4D9L_007](https://t.me/B4D9L_007)
 
 ---
 
-## 🌐 আমাদের অন্যান্য প্রজেক্ট
+## 🔗 All-in-One Contact Links
 
-আমাদের ডেভেলপমেন্ট টিম আরও কিছু দরকারি টুল এবং বট নিয়ে কাজ করছে। দেখতে চাইলে:
+সব তথ্য একসাথে এখানে পেয়ে যাবেন — আপনার প্রয়োজনে নিচের যেকোনো লিংকে ক্লিক করুন:
 
-🔗 [t.me/BJSCodingUpdates](https://t.me/BJSCodingUpdates) – নতুন টুলস ও আপডেট জানতে  
-🔗 [facebook.com/BJSCodingPage](https://facebook.com/BJSCodingPage) – প্রজেক্ট রিলেটেড পোস্ট ও টিপস  
+- 📘 Facebook ID: [facebook.com/B4D9L](https://www.facebook.com/B4D9L)
+- 📄 Facebook Page: [facebook.com/ITZ.BADOL.VAI](https://www.facebook.com/ITZ.BADOL.VAI)
+- 👥 Facebook Group: [Technical BADOL VAI Group](https://facebook.com/groups/technical.badol.vai.muslim.cyber/)
+- ✈️ Telegram ID: [@B4D9L_007](https://t.me/B4D9L_007)
+- 💬 Telegram Group: [Mr.Editor Zone](https://t.me/mreditorzone)
+- 📢 Telegram Channel: [SB MODS APK](https://t.me/SB_MODS_APK)
+- 🤖 Telegram Bot: [@B4D9LBOT](https://t.me/B4D9LBOT)
 
 ---
 
@@ -88,27 +93,27 @@
 
 | মাধ্যম | লিংক |
 |--------|------|
-| 📘 **Facebook Profile** | [facebook.com/mdbadol360](https://facebook.com/mdbadol360) |
-| 📄 **Facebook Page** | [facebook.com/BJSCodingPage](https://facebook.com/BJSCodingPage) |
-| 👥 **Facebook Group** | [facebook.com/groups/bjscodinggroup](https://facebook.com/groups/bjscodinggroup) |
-| ✈️ **Telegram ID** | [@badol360](https://t.me/badol360) |
-| 📢 **Telegram Channel** | [t.me/BJSCodingUpdates](https://t.me/BJSCodingUpdates) |
-| 💬 **Telegram Group** | [t.me/BJSCodingCommunity](https://t.me/BJSCodingCommunity) |
-| 📧 **Email:** | badol360@gmail.com |
+| 📘 **Facebook ID** | [facebook.com/B4D9L](https://www.facebook.com/B4D9L) |
+| 📄 **Facebook Page** | [facebook.com/ITZ.BADOL.VAI](https://www.facebook.com/ITZ.BADOL.VAI) |
+| 👥 **Facebook Group** | [facebook.com/groups/technical.badol.vai.muslim.cyber](https://facebook.com/groups/technical.badol.vai.muslim.cyber/) |
+| ✈️ **Telegram ID** | [@B4D9L_007](https://t.me/B4D9L_007) |
+| 💬 **Telegram Group** | [t.me/mreditorzone](https://t.me/mreditorzone) |
+| 📢 **Telegram Channel** | [t.me/SB_MODS_APK](https://t.me/SB_MODS_APK) |
+| 🤖 **Telegram Bot** | [@B4D9LBOT](https://t.me/B4D9LBOT) |
 
 ---
 
-## 🚀 শুরু করুন
+## 🚀 কিভাবে শুরু করবেন
 
 👉 Bot লিংক: [@B4D9LBOT](https://t.me/B4D9LBOT)
 
-- বটটি Telegram-এ অ্যাড করুন  
-- `/start` কমান্ড ব্যবহার করে চালু করুন  
-- গ্রুপে অ্যাড করে অটো-ফিচার ব্যবহার করুন  
+1. বটটিকে Telegram-এ অ্যাড করুন  
+2. `/start` কমান্ড দিয়ে শুরু করুন  
+3. গ্রুপে অ্যাড করে অটো-মডারেশন ফিচারগুলো উপভোগ করুন  
 
 ---
 
-## 👨‍💻 মালিক ও অ্যাডমিন
+## 👨‍💻 ডেভেলপার
 
 | নাম | ভূমিকা |
 |-----|--------|
@@ -117,6 +122,9 @@
 ---
 
 <p align="center">
-  Developed with ❤️ by MOHAMMAD~BADOL <br>
-  Powered by BJS Coding Telegram Bot Development Spot • © 2025
+  Developed with ❤️ by MOHAMMAD~BADOL  
+  <br />
+  Powered by BJS Coding Telegram Bot Development Spot • © 2025  
+  <br />
+  🌐 <a href="https://bio.link/mohammadbadol009" target="_blank">Official Website / Bio Link</a>
 </p>
