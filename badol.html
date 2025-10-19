@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Alif Hosson | Developer & Cyber Expert</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron&family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <!-- Icons -->
+  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+  <!-- Snow Effect -->
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Poppins', sans-serif;
+      background-color: #0a0f1a;
+      color: white;
+      overflow-x: hidden;
+    }
+
+    header {
+      text-align: center;
+      padding: 30px 20px;
+      position: relative;
+    }
+
+    header img {
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      border: 3px solid cyan;
+      margin-bottom: 10px;
+    }
+
+    header h1 {
+      font-family: 'Orbitron', sans-serif;
+      color: #c084fc;
+      font-size: 28px;
+    }
+
+    header .social-icons a {
+      margin: 0 8px;
+      color: #00ffff;
+      font-size: 22px;
+      text-decoration: none;
+    }
+
+    .clock {
+      margin: 10px 0;
+      font-family: 'Orbitron', monospace;
+      color: cyan;
+    }
+
+    .welcome {
+      color: yellow;
+      font-size: 18px;
+      font-weight: bold;
+    }
+
+    .section {
+      padding: 30px 20px;
+      border-top: 1px solid #1f2937;
+    }
+
+    .section h2 {
+      color: cyan;
+      margin-bottom: 10px;
+    }
+
+    .badges span {
+      background: #1f2937;
+      color: #00ffff;
+      padding: 6px 12px;
+      margin: 5px;
+      display: inline-block;
+      border-radius: 6px;
+      font-size: 14px;
+    }
+
+    .about {
+      background-color: #111827;
+      padding: 20px;
+      border-radius: 10px;
+      border: 1px solid cyan;
+      margin-top: 15px;
+    }
+
+    ul.timeline {
+      margin: 15px 0;
+      list-style: none;
+    }
+
+    ul.timeline li {
+      margin-bottom: 8px;
+      position: relative;
+      padding-left: 15px;
+    }
+
+    ul.timeline li::before {
+      content: '•';
+      color: cyan;
+      position: absolute;
+      left: 0;
+    }
+
+    .footer {
+      font-family: monospace;
+      background-color: black;
+      color: #00ff00;
+      padding: 15px;
+      text-align: center;
+    }
+
+    /* Snow Effect */
+    .snowflake {
+      position: fixed;
+      top: -10px;
+      z-index: 9999;
+      color: #00ffff88;
+      user-select: none;
+      pointer-events: none;
+      animation: fall linear infinite;
+    }
+
+    @keyframes fall {
+      to {
+        transform: translateY(100vh);
+        opacity: 0;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Snowflakes -->
+  <script>
+    const createSnow = () => {
+      const snowflake = document.createElement('div');
+      snowflake.classList.add('snowflake');
+      snowflake.textContent = '❄';
+      snowflake.style.left = Math.random() * window.innerWidth + 'px';
+      snowflake.style.fontSize = (Math.random() * 10 + 10) + 'px';
+      snowflake.style.animationDuration = (Math.random() * 3 + 2) + 's';
+      document.body.appendChild(snowflake);
+      setTimeout(() => snowflake.remove(), 5000);
+    }
+    setInterval(createSnow, 200);
+  </script>
+
+  <header>
+    <img src="https://via.placeholder.com/120" alt="Alif Hosson">
+    <h1>ALIF HOSSON <span style="color: cyan;">✔</span></h1>
+    <div class="social-icons">
+      <a href="#"><i class="fab fa-facebook"></i></a>
+      <a href="#"><i class="fab fa-instagram"></i></a>
+      <a href="#"><i class="fab fa-telegram"></i></a>
+      <a href="#"><i class="fab fa-whatsapp"></i></a>
+      <a href="#"><i class="fab fa-tiktok"></i></a>
+    </div>
+    <div class="clock" id="clock">00:00:00</div>
+    <div class="welcome">
+      Hey 👋<br>
+      I'm Alif Hosson<br>
+      Welcome to my profile<br>
+      Developer & Cyber Expert
+    </div>
+  </header>
+
+  <div class="section">
+    <h2>Languages & Tools</h2>
+    <div class="badges">
+      <span>JavaScript</span>
+      <span>Node.js</span>
+      <span>Express.js</span>
+      <span>Python</span>
+      <span>HTML5</span>
+      <span>CSS3</span>
+      <span>PHP</span>
+      <span>Git</span>
+      <span>Termux</span>
+      <span>Heroku</span>
+      <span>Replit</span>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>About Me</h2>
+    <div class="about">
+      Hi, I'm <strong>Alif Hosson</strong>, a passionate developer & cyber expert. I love creating <em>web applications</em>,
+      exploring <em>cybersecurity</em>, and sharing knowledge.<br><br>
+      My goal is to <strong>innovate, inspire, and illuminate</strong>.<br><br>
+      <div class="badges">
+        <span>50+ Projects</span>
+        <span>Cybersecurity</span>
+        <span>Open Source</span>
+        <span>Always Learning</span>
+      </div>
+      <ul class="timeline">
+        <li>2019: Started coding HTML & CSS</li>
+        <li>2020: Learned JS & Node.js</li>
+        <li>2021: Python & Cybersecurity</li>
+        <li>2022: Full-stack apps & Open Source</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>Project Highlights</h2>
+    <ul class="timeline">
+      <li>💻 Full Stack Developer</li>
+      <li>🚀 Bot Creator | API Wizard</li>
+      <li>🔥 Telegram + Messenger Automation</li>
+      <li>🧠 Learning Never Stops!</li>
+    </ul>
+  </div>
+
+  <div class="footer">
+    Initializing system...<br>Loading modules...
+  </div>
+
+  <script>
+    function updateClock() {
+      const now = new Date();
+      let h = String(now.getHours()).padStart(2, '0');
+      let m = String(now.getMinutes()).padStart(2, '0');
+      let s = String(now.getSeconds()).padStart(2, '0');
+      document.getElementById('clock').textContent = `${h}:${m}:${s}`;
+    }
+    setInterval(updateClock, 1000);
+    updateClock();
+  </script>
+</body>
+</html>
